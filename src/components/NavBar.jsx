@@ -68,8 +68,7 @@ function NavBar({ searchQuery, setSearchQuery }) {
                     <div className="flex items-center space-x-8">
                         <Link to="/">
                             {/* <img src="/BJAJ.png" alt="Tickertape" className="h-12" /> */}
-{/*                             <img src="/logopage.svg" alt="Tickertape" className="h-12" /> */}
-                            <img src="/logobook.png" alt="Tickertape" className="h-12" />
+                            <img src="/logopage.svg" alt="Tickertape" className="h-12" />  
                         </Link>
                         <div className="relative hidden md:block">
                             <input
